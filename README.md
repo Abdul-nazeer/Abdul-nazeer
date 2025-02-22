@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Abdul Nazeer
 
-<!--
-**Abdul-nazeer/Abdul-nazeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me:
+I'm a passionate Data Science and AI/ML Enthusiast 📈  
+I love the thrill of playing with data 💡  
+Currently working in the field of NLP and Generative AI 🤖🧠  
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning:
+Generative AI Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 All of my projects are available at GitHub
+
+## 💬 Ask me about:
+Data Science and AI/ML related technologies
+
+## 📫 How to reach me:
+[roxnazeer@gmail.com](mailto:roxnazeer@gmail.com)
+
+## Connect with me:
+- [LinkedIn: abdul-nazeer-m-ba4111253](https://www.linkedin.com/in/abdul-nazeer-m-ba4111253)
+- Email: roxnazeer@gmail.com
+
+## Languages and Tools:
+AWS, Python, MySQL, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Scikit-learn, Power BI, Tableau, Gemini, Azure, LangChain, Bootstrap, C, Jupyter, MongoDB, CSS3,Git, HTML5, JavaScript, Flask, Streamlit, MLflow, MATLAB.
+
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iunnati31&show_icons=true)
+
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iunnati31)
