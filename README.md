@@ -24,7 +24,7 @@ Data Science and AI/ML related technologies
 AWS, Python, MySQL, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Scikit-learn, Power BI, Tableau, Gemini, Azure, LangChain, Bootstrap, C, Jupyter, MongoDB, CSS3,Git, HTML5, JavaScript, Flask, Streamlit, MLflow, MATLAB.
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iunnati31&show_icons=true)
+![Abdul-nazeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-nazeer&show_icons=true)
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iunnati31)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdul-nazeer)
