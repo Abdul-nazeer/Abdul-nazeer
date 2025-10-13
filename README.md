@@ -1,95 +1,209 @@
-# Hi 👋, I'm Abdul Nazeer  
+# Abdul Nazeer M 
+### Machine Learning Engineer | AI Researcher | Data Science Enthusiast
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=AI+%7C+ML+%7C+Data+Science+%7C+Generative+AI;Python+%7C+NLP+%7C+LangChain+%7C+Hugging+Face;Welcome+to+My+GitHub+Profile!+🚀)  
-
----
-![Fun GIF](https://camo.githubusercontent.com/c46023053827704d020ebafaa36de44fce750dc609e92e8e5b166ad46cd3a60b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66632f37312f36332f66633731363335633766316230396564333034313366353962623734393538322e676966)
-
----
-
-## 👨‍💻 About Me:
-- 🔍 I'm a passionate **Data Science and AI/ML Enthusiast** 📈  
-- 💡 I love the thrill of playing with **data and algorithms**  
-- 🤖 Currently working in the field of **NLP, Generative AI, and LangChain**  
-- 📚 Always exploring **new AI frameworks and technologies**  
-
----
-
-## 🌱 I’m currently learning:
-- **Generative AI Frameworks**
-- **LangChain & Hugging Face Models**
-- **Deep Learning Optimization**
+<div align="center">
   
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+%7C+Deep+Learning+%7C+NLP+Specialist;Python+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Systems+🤖)](https://git.io/typing-svg)
 
-## 👨‍💻 All of my projects are available at:
-🔗 **[GitHub](https://github.com/abdul-nazeer)**
-
----
-
-## 💬 Ask me about:
-- **Data Science & AI/ML**
-- **Deep Learning & Computer Vision**
-- **Generative AI & NLP**
-- **Python, TensorFlow, LangChain, OpenAI API**
+</div>
 
 ---
 
-## 📫 How to reach me:
-📩 **Email:** [roxnazeer@gmail.com](mailto:roxnazeer@gmail.com)  
-💼 **LinkedIn:** [Abdul Nazeer M](https://www.linkedin.com/in/abdul-nazeer-m-ba4111253)  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 🎯 About Me
+
+```python
+class MLEngineer:
+    def __init__(self):
+        self.name = "Abdul Nazeer M"
+        self.role = "Machine Learning Engineer"
+        self.location = "India 🇮🇳"
+        self.languages = ["Python", "SQL", "JavaScript"]
+        self.specializations = [
+            "Deep Learning", "NLP", "Computer Vision",
+            "Generative AI", "LLM Fine-tuning", "MLOps", 
+            "LLM-powered Applications", "Data Engineering"
+        ]
+        self.current_focus = "Fine-tuning LLMs & building intelligent applications"
+    
+    def get_daily_routine(self):
+        return {
+            "morning": "☕ Coffee + Research papers",
+            "afternoon": "💻 Model training & optimization",
+            "evening": "📊 Data analysis & visualization",
+            "night": "🧠 Learning new AI frameworks"
+        }
+```
+
+<br clear="right"/>
+
+##  What I'm Working On
+
+- 🎯 **LLM Fine-tuning** - Custom domain-specific language models using LoRA, QLoRA & PEFT
+- 🤖 **LLM-powered Applications** - Building intelligent chatbots, code assistants & RAG systems
+- � **Advancied NLP Models** - Context-aware conversational AI with memory & reasoning
+- ⚡ **MLOps Pipeline** - Automated model deployment, A/B testing & monitoring
+- 📊 **Real-time Analytics** - Streaming data processing with ML insights
+- 🧠 **Research Projects** - Exploring efficient fine-tuning techniques & model optimization
+
+## 💡 Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Machine Learning & AI
+- **LLM Fine-tuning**: LoRA, QLoRA, PEFT, Full Fine-tuning, RLHF
+- **LLM Applications**: RAG, Agents, Tool Use, Chain-of-Thought
+- **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers
+- **NLP**: BERT, GPT, T5, LLaMA, Mistral, Claude Integration
+- **Generative AI**: Text Generation, Code Generation, Multimodal AI
+
+</td>
+<td width="50%">
+
+### 🛠️ Engineering & Tools
+- **LLM Frameworks**: LangChain, LlamaIndex, Transformers, Unsloth
+- **Fine-tuning Tools**: LoRA, QLoRA, PEFT, DeepSpeed, Accelerate
+- **Vector Databases**: Pinecone, Weaviate, ChromaDB, FAISS
+- **MLOps**: MLflow, Weights & Biases, Kubeflow, Docker, Kubernetes
+- **Cloud**: AWS SageMaker, Google Cloud AI, Azure OpenAI Service
+
+</td>
+</tr>
+</table>
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### ML/AI Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
+
+### LLM & Fine-tuning
+![LLaMA](https://img.shields.io/badge/🦙%20LLaMA-FF6B35?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-8A2BE2?style=for-the-badge)
+![PEFT](https://img.shields.io/badge/PEFT-FF4500?style=for-the-badge)
+
+### Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### Databases & Vector Stores
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abdul-nazeer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-nazeer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-nazeer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdul-nazeer&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-nazeer&theme=tokyo-night&hide_border=true)
+
+</div>
+
+## 🎯 Current Learning Path
+
+```mermaid
+graph LR
+    A[LLM Fine-tuning] --> B[LoRA/QLoRA]
+    B --> C[RLHF]
+    C --> D[Custom Models]
+    
+    E[LLM Applications] --> F[RAG Systems]
+    F --> G[AI Agents]
+    G --> H[Tool Integration]
+    
+    I[Advanced MLOps] --> J[Model Monitoring]
+    J --> K[A/B Testing]
+    K --> L[Production LLMs]
+    
+    M[Multimodal AI] --> N[Vision-Language]
+    N --> O[Code Generation]
+    O --> P[Reasoning Systems]
+```
+
+## 🧠 LLM Expertise Showcase
+
+<div align="center">
+
+| Fine-tuning Techniques | LLM Applications | Optimization Methods |
+|:---------------------:|:----------------:|:-------------------:|
+| 🎯 **LoRA & QLoRA** | 🤖 **Chatbots & Assistants** | ⚡ **Quantization** |
+| 🔧 **PEFT Methods** | 📚 **RAG Systems** | 🚀 **Model Compression** |
+| 🎓 **RLHF Training** | 🛠️ **Tool-using Agents** | 💾 **Memory Optimization** |
+| 📊 **Custom Datasets** | 💬 **Conversational AI** | 🔄 **Efficient Inference** |
+
+</div>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-nazeer-m-ba4111253)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roxnazeer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdul-nazeer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🔧 Languages and Tools:
-
-### **Programming & Data Science**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-5A5A5A?style=flat-square&logo=seaborn&logoColor=white)
-
-### **AI/ML Frameworks**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### **Development & Web**
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-## 📊 GitHub Stats:
-![Abdul Nazeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-nazeer&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-nazeer&layout=compact&theme=dark)
-
----
-
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdul-nazeer&theme=onedark&column=3)
-
----
+<div align="center">
 
 
-## ⚡ **Fun Facts & Interests:**
-🎵 **Music Lover** | 💡 **AI Researcher** | 🎮 **Casual Gamer** | ✈️ **Tech Explorer**  
 
-![Abdul Nazeer Fun](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-nazeer&theme=dark)  
+**"Building the future, one algorithm at a time"** 🚀
 
----
+![Visitor Count](https://komarev.com/ghpvc/?username=Abdul-nazeer&color=brightgreen&style=for-the-badge)
 
-### **🔥 Let's Connect & Collaborate!**
-🤝 Open to AI/ML collaboration & research projects  
-💡 Always eager to discuss **AI-driven innovations**  
-
----
+</div>
