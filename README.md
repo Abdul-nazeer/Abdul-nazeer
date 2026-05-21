@@ -120,18 +120,18 @@ class MLEngineer:
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdul-nazeer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abdul-nazeer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-nazeer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-nazeer&theme=tokyonight&hide_border=true&cache_bust=1" alt="GitHub Streak" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-nazeer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-nazeer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_bust=1" alt="Top Languages" />
 
 </div>
 
@@ -139,7 +139,7 @@ class MLEngineer:
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdul-nazeer&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdul-nazeer&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&cache_bust=1)
 
 </div>
 
@@ -147,7 +147,7 @@ class MLEngineer:
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-nazeer&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-nazeer&theme=tokyo-night&hide_border=true&cache_bust=1)
 
 </div>
 
