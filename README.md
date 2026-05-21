@@ -144,7 +144,7 @@ class MLEngineer:
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdul-nazeer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdul-nazeer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=2" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
@@ -155,7 +155,7 @@ class MLEngineer:
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-nazeer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_bust=1" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdul-nazeer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_bust=2" alt="Top Languages" />
 
 </div>
 
@@ -167,11 +167,19 @@ class MLEngineer:
 
 </div>
 
+## 🏙️ 3D Isometric Contribution City
+
+<div align="center">
+
+![3D GitHub Contribution City](https://raw.githubusercontent.com/Abdul-nazeer/Abdul-nazeer/main/profile-3d-contrib/profile-night-view.svg)
+
+</div>
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-nazeer&theme=tokyo-night&hide_border=true&cache_bust=1)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-nazeer&theme=tokyo-night&hide_border=true&cache_bust=2)
 
 </div>
 
