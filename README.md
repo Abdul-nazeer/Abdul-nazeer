@@ -1,9 +1,8 @@
-# Abdul Nazeer M 
-### Machine Learning Engineer | AI Researcher | Data Science Enthusiast
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+%7C+Deep+Learning+%7C+NLP+Specialist;Python+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Systems+🤖)](https://git.io/typing-svg)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=250&section=header&text=Abdul%20Nazeer%20M&fontSize=80&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Researcher&descAlignY=55&descSize=22&animation=twinkling)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fine-Tuning+Large+Language+Models+🧠;Building+Intelligent+AI+Systems+🤖;Python+%7C+TensorFlow+%7C+PyTorch+⚡;Turning+Data+Into+Actionable+Insights+📊)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,14 +37,39 @@ class MLEngineer:
 
 <br clear="right"/>
 
-##  What I'm Working On
+## 🚀 Featured Open Source Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔒 <a href="https://github.com/CodeBase-X1/cloq">Cloq</a></h3>
+      <p align="center"><b>Privacy-First Local Context Sanitizer & Prompt Optimizer</b></p>
+      <p>Sits transparently between your IDE/CLI and cloud LLMs. Replaces API keys, internal IPs, and PII with reversible tags locally, restoring them on response.</p>
+      <ul>
+        <li><b>Killer Feature</b>: De-Identified Prompt Caching (DPC) cuts LLM token bills by up to 80% through template normalization.</li>
+        <li><b>Tech</b>: Python, FastAPI, Microsoft Presidio, Rich TUI.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛠️ <a href="https://github.com/CodeBase-X1/EvalForge">EvalForge</a></h3>
+      <p align="center"><b>Production-Grade LLM Evaluation Framework</b></p>
+      <p>A rigorous local-first validation engine built to generate, execute, and score benchmark evaluations for autonomous AI agents and complex RAG workflows.</p>
+      <ul>
+        <li><b>Killer Feature</b>: Multi-dimensional model-as-a-judge scorers and automated validation pipelines.</li>
+        <li><b>Tech</b>: Python, Pytest, LangChain, OpenAI API.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## ⚡ What I'm Working On
 
 - 🎯 **LLM Fine-tuning** - Custom domain-specific language models using LoRA, QLoRA & PEFT
 - 🤖 **LLM-powered Applications** - Building intelligent chatbots, code assistants & RAG systems
-- � **Advancied NLP Models** - Context-aware conversational AI with memory & reasoning
-- ⚡ **MLOps Pipeline** - Automated model deployment, A/B testing & monitoring
-- 📊 **Real-time Analytics** - Streaming data processing with ML insights
-- 🧠 **Research Projects** - Exploring efficient fine-tuning techniques & model optimization
+- 🧠 **Advanced NLP Models** - Context-aware conversational AI with memory, tool integration & reasoning
+- ⚡ **MLOps Pipelines** - Automated model deployment, drift monitoring & A/B testing
+- 📊 **Real-time Analytics** - High-throughput streaming data pipelines with embedded ML insights
+- 🔬 **AI Research** - Investigating parameter-efficient fine-tuning strategies & model compression
 
 ## 💡 Core Expertise
 
@@ -200,9 +224,14 @@ graph LR
 
 <div align="center">
 
+## 💬 Tech Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 
+<br>
 
 **"Building the future, one algorithm at a time"** 🚀
+
+<br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Abdul-nazeer&color=brightgreen&style=for-the-badge)
 
